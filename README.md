@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href=https://portfolio-yared21.netlify.app>
-    <img src="./images/new.png" alt="Yared Kebede" width="100" height="50">
+      # ያሬድ ከበደ - Yared Kebede
   </a>
   <p align="center">
     <ol>
